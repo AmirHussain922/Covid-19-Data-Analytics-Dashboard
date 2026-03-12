@@ -1,0 +1,104 @@
+Design a modern and professional Data Analytics Dashboard UI for a project called 
+“COVID-19 Global Data Analytics Dashboard”.
+
+Style:
+Clean, modern, minimalistic design inspired by modern SaaS dashboards.
+Use a light theme with subtle shadows, rounded cards, glassmorphism elements, 
+and smooth spacing. Follow a grid layout similar to modern analytics platforms.
+
+Color palette:
+Primary: #4F46E5 (Indigo)
+Secondary: #06B6D4 (Cyan)
+Background: #F8FAFC
+Cards: White with soft shadows
+Accent colors for charts: red, blue, orange, green.
+
+Typography:
+Use modern sans-serif fonts like Inter or Poppins.
+Clear hierarchy for headings, metrics, and chart labels.
+
+Layout Structure:
+
+1. Left Sidebar Navigation
+- Logo at top
+- Menu items:
+   • Dashboard
+   • Global Statistics
+   • Country Comparison
+   • Trends
+   • Heatmap
+   • Reports
+- Icons next to each item
+- Minimalistic style
+
+2. Top Navigation Bar
+- Search bar
+- Date range filter
+- Country filter dropdown
+- User profile avatar
+- Notification bell icon
+
+3. Key Metrics Cards (top row)
+Display 4 analytics cards:
+- Total Global Cases
+- Total Deaths
+- Total Recovered
+- Daily New Cases
+
+Each card should contain:
+- Big number
+- Small trend indicator
+- Percentage change
+- Mini sparkline chart
+
+4. Main Charts Section
+
+Left large card:
+Global COVID-19 Time Series Chart
+Line chart showing cases over time.
+
+Right card:
+Top 10 Countries by Cases
+Horizontal bar chart.
+
+5. Country Comparison Section
+
+Multi-line chart comparing:
+- Pakistan
+- USA
+- India
+- UK
+
+Include legend and hover tooltips.
+
+6. Heatmap Section
+
+COVID correlation heatmap between countries.
+Color gradient from light blue to dark red.
+
+7. Bottom Section
+
+Two cards:
+- Death Rate by Country (bar chart)
+- Vaccination vs Cases (scatter chart)
+
+8. Extra UI Elements
+
+Add:
+- Smooth hover states
+- Rounded cards (16px)
+- Soft shadows
+- Modern analytics widgets
+- Clean spacing
+
+Frame size:
+Desktop dashboard 1440px width.
+
+Create reusable components for:
+- metric cards
+- chart cards
+- navigation items
+- buttons
+- dropdown filters
+
+Design should look like a modern SaaS analytics platform used by data scientists and analysts.
